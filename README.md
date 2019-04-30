@@ -10,9 +10,13 @@ El Plan de investigación deberá contener al menos:
 
 - [x] un título provisional
 - [ ] los antecedentes del trabajo propuesto
-- [ ] la metodología a utilizar
-- [ ] los objetivos a alcanzar
-- [ ] los medios
-- [ ] la planificación temporal
+- [ ] Hipótesis y justificación
+- [ ] Objetivos
+- [ ] Metodología
+- [ ] PLanificación
+- [ ] Medios y financiación
+- [ ] 10 Referencias bilbiográficas
 
 El Plan de investigación debe estar avalado por el Director de la tesis doctoral y aprobado por la Comisión Académica tras su exposición pública y defensa por parte del doctorando.
+
+Se seguirá el siguiente esquema y en ningún caso se utilizarán más de 3000 palabras en la memoria (en esta cantidad no se cuentan las referencias bibliográficas):
