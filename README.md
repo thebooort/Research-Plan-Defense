@@ -9,13 +9,13 @@ Antes de los seis primeros meses para alumnos a tiempo completo o de la finaliza
 El Plan de investigación deberá contener al menos:
 
 - [x] un título provisional
-- [ ] los antecedentes del trabajo propuesto
-- [ ] Hipótesis y justificación
-- [ ] Objetivos
-- [ ] Metodología
-- [ ] PLanificación
-- [ ] Medios y financiación
-- [ ] 10 Referencias bilbiográficas
+- [x] los antecedentes del trabajo propuesto
+- [x] Hipótesis y justificación
+- [x] Objetivos
+- [x] Metodología
+- [x] PLanificación
+- [x] Medios y financiación
+- [x] 10 Referencias bilbiográficas
 
 El Plan de investigación debe estar avalado por el Director de la tesis doctoral y aprobado por la Comisión Académica tras su exposición pública y defensa por parte del doctorando.
 
